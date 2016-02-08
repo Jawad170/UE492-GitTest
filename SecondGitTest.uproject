@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{C36DE5FE-4BFE-D6A8-8C6F-249AFE21F6B2}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "SecondGitTest",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
